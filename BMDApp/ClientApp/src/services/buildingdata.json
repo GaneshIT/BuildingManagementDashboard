@@ -1,0 +1,27 @@
+[
+  {
+    "Building": {
+      "Floor1": {
+        "Room1": {
+          "Temperature": "45",
+          "Humidity": "38"
+        },
+        "Room2": {
+          "Temperature": "65",
+          "Humidity": "58"
+        }
+      },
+      "Floor2": {
+        "Room1": {
+          "Temperature": "25",
+          "Humidity": "88"
+        },
+        "Room2": {
+          "Temperature": "75",
+          "Humidity": "28"
+        }
+      }
+    }
+  }
+]
+
